@@ -8,4 +8,4 @@ the survey conducted to gather information on vegetable growers around city.
 
 Farmer  |  Contact
 ---------- | ------------
-[x] farmer name | [x] mobile number
+- [x] farmer name | - [x] mobile number

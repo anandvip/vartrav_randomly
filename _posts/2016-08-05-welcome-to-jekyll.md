@@ -1,5 +1,5 @@
 ---
-layout: category-post
+layout: ''
 title: farmer's diary
 date: '2020-05-19 20:20:56 -0400'
 categories: writing

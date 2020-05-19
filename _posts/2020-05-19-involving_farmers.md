@@ -3,6 +3,7 @@ title: Involving farmers
 
 ---
 ## reaching farmers
-Farmer | Contact
-----------|------------
+
+Farmer  |  Contact
+---------- | ------------
 farmer name | mobile number

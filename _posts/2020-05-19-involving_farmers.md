@@ -1,6 +1,6 @@
 ---
 title: Involving farmers
-layout: ''
+layout: post
 
 ---
 ## reaching farmers

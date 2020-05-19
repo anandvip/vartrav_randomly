@@ -1,10 +1,8 @@
 ---
 layout: home
-permalink: "/"
-title: Athena Jekyll Theme
+permalink: /
+title: vartrav randomly
 
 ---
-
-A simple and elegant theme for Jekyll and GitHub Pages.
-
+my posts are irregular and appear only if I feel strongly about some situation, scenarios, condition(mental) or an identified bias in though process.
 

@@ -5,5 +5,5 @@ date: '2016-08-05 20:20:56 -0400'
 categories: writing
 
 ---
-## Grower to seller journey
+##Grower to seller journey
 > the learning curve is steep and resources are merely left open to self learner's domain.

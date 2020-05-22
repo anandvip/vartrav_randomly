@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: post
 title: 'This should appear in the category '
 
 ---

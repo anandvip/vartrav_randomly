@@ -1,5 +1,5 @@
 ---
-layout: category_index
+layout: ''
 title: 'This should appear in the category '
 
 ---

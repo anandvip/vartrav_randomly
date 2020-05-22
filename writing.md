@@ -3,8 +3,8 @@ layout: category_index
 title: Writing
 permalink: /writing/
 category_name: writing
----
 
+---
 <!--
 
 Set the front matter:
@@ -19,3 +19,5 @@ permalink: /my-awesome-category/
 filename: my-awesome-category.html
 
 -->
+
+![2020-05-05-861309.png](https://anandvip.github.io/vartrav_randomly/assets/2020-05-05-861309.png)

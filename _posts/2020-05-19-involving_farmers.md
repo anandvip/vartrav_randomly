@@ -13,4 +13,5 @@ Farmer  |  Contact
 
 creating a platform of local farmers serving the residents with local produce.
 
-https://farmapp.vipulanand.in/login.html - automatic
+https://farmapp.vipulanand.in/login.html - automatic!
+[FarmApp Login](https://farmapp.vipulanand.in/login.html)

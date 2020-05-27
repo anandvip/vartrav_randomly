@@ -1,6 +1,8 @@
 ---
-layout: post
-title: 'This should appear in the category '
+layout: category-post
+title:  "This is fun"
+date:   2016-08-05 20:20:56 -0400
+categories: fun
 
 ---
 # the content that is being explored!

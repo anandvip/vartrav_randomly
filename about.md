@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 
 ---
-it takes many aware farmers to make the PM's scheme's in 2020 a flourishing future for a common farmer.
+It takes many aware farmers to make the PM's scheme's in 2020 a flourishing future for a common farmer.
 
 ### Features:
 * FPOs are a political class rooms turned battle fields, never works with the present mindset of people in top positions of FPO.

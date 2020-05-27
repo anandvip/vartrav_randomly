@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: VartraV *randomly*
+title: VartraV *rand*mly*
 
 ---
 Vipul Anand

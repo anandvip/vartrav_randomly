@@ -1,6 +1,6 @@
 ---
 title: Involving farmers
-layout: category_index
+layout: category-post
 date: '2020-05-27 11:09:56 +0530'
 categories: writing
 

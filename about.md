@@ -8,7 +8,7 @@ it takes many aware farmers to make the PM's scheme's in 2020 a flourishing futu
 
 ### Features:
 * FPOs are a political class rooms turned battle fields, never works with the present mindset of people in top positions of FPO.
-* Alocated budgets are treated as *who cares* attitude.
+* Allocated budgets are treated as *who cares* attitude.
 * Support from local agriculture offices are completely corrupt and seek benefits to approve the scheme funds.
 
 ## Solutions
